@@ -288,6 +288,16 @@ chem.html
 
 
 ## OUTPUT
+<img width="1912" height="941" alt="Screenshot 2025-10-09 092332" src="https://github.com/user-attachments/assets/41a185fa-3178-423a-8ffe-6841496a79df" />
+<img width="1887" height="971" alt="Screenshot 2025-10-09 092454" src="https://github.com/user-attachments/assets/eb25f0c1-cae2-4ce6-9882-626413c9af59" />
+
+<img width="1884" height="951" alt="Screenshot 2025-10-09 092347" src="https://github.com/user-attachments/assets/928ddec4-0c16-4bcc-9011-b8c7fdb615f9" />
+
+<img width="1893" height="958" alt="Screenshot 2025-10-09 092510" src="https://github.com/user-attachments/assets/e7e149e4-f09e-4440-bebd-5c1c8037927f" />
+
+<img width="1907" height="942" alt="Screenshot 2025-10-09 092525" src="https://github.com/user-attachments/assets/6ea83b70-70f4-4038-bdc1-2025902b9835" />
+
+<img width="1914" height="933" alt="Screenshot 2025-10-09 092423" src="https://github.com/user-attachments/assets/e1e134f0-6064-4b14-9b8b-c0317a0b83ac" />
 
 
 
